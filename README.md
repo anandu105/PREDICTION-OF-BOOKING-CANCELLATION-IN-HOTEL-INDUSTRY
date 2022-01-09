@@ -18,8 +18,7 @@ OTA´s are encouraging customers to cancel by providing services like book now a
 • Loss of revenue when they cannot resell the room.
 • Additional costs of distribution channels by increasing commissions or paying for publicity to help sell these rooms.
 • Lowering prices last minute, so they can resell a room, resulting in reducing profit margin.
-So, what can hotels do to reduce this uncertainty and maximize their product and
-revenue? A lot can be done with revenue management techniques when it comes to
+So, what can hotels do to reduce this uncertainty and maximize their product and revenue? A lot can be done with revenue management techniques when it comes to
 rates restrictions, like increasing the number of days until the customer can cancel
 their booking free of cost, hence giving you more time to resell the room. But now due
 to the presence of competition, we need to monitor these policies so that we don’t
